@@ -29,6 +29,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'com.example.flutterdeepar' 
     compileSdkVersion 31
 
     defaultConfig {
