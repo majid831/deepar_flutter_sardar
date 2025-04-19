@@ -1,0 +1,4 @@
+
+enum DeepARCameraPosition{
+  front, back
+}
